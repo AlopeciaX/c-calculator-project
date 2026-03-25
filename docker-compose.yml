@@ -1,6 +1,6 @@
 services:
   c-calculator:
-    image: ghcr.io/AlopeciaX/c-calculator-project:latest
+    image: ghcr.io/alopeciax/c-calculator-project:latest
     container_name: c-calculator-prod
     stdin_open: true
     tty: true
